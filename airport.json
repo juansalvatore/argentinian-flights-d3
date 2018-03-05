@@ -1,0 +1,12 @@
+{
+  "type": "Point",
+  "coordinates": [-65.0978012085, -24.3927993774],
+  "properties": {
+    "scalerank": 4,
+    "featurecla": "Airport",
+    "type": "mid",
+    "name": "Aeropuerto Internacional Gobernador Horacio Guzmán",
+    "abbrev": "SASJ",
+    "iata_code": "SASJ"
+  }
+}
